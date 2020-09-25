@@ -8,3 +8,5 @@ configuration gunicorn + création image docker: 6h
 Test affichage hello word > OK
 
 Fin test Vendredi 25 Septembre 17h
+
+Lien vers l'image docker : https://hub.docker.com/r/skillseries/devops_junior_test_flask_app
