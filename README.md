@@ -4,6 +4,7 @@ Test DevOps donner par la startup Procsea
 Début Test Jeudi 24 Septembre 14h.
 Prise connaissance et phase de recherche documentations etc : 3h
 Configuration flask et nginx temps réel passé: 6h
+configuration gunicorn + création image docker: 6h
+Test affichage hello word > OK
 
-Problème en cours... :
-Affichage du message hello world message d'erreur lié à gunicorn avec l'argument run:app ne trouvant pas app in run.
+Fin test Vendredi 25 Septembre 17h
